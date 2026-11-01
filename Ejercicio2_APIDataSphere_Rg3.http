@@ -1,0 +1,6 @@
+@Ejercicio2_APIDataSphere_Rg3_HostAddress = http://localhost:5273
+
+GET {{Ejercicio2_APIDataSphere_Rg3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

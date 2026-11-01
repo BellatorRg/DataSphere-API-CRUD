@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37827.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2_APIDataSphere_Rg3", "Ejercicio2_APIDataSphere_Rg3.csproj", "{05668C4E-8299-4C35-8278-F96EC20F1E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1_Actividad2_DataShpere_RG3", "..\TestProject1_Actividad2_DataShpere_RG3\TestProject1_Actividad2_DataShpere_RG3.csproj", "{212022C5-10CA-49E3-8867-817993D04AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05668C4E-8299-4C35-8278-F96EC20F1E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05668C4E-8299-4C35-8278-F96EC20F1E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05668C4E-8299-4C35-8278-F96EC20F1E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05668C4E-8299-4C35-8278-F96EC20F1E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212022C5-10CA-49E3-8867-817993D04AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212022C5-10CA-49E3-8867-817993D04AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212022C5-10CA-49E3-8867-817993D04AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212022C5-10CA-49E3-8867-817993D04AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D82A0EB6-5091-4418-81CE-E7373B41A8E8}
+	EndGlobalSection
+EndGlobal
