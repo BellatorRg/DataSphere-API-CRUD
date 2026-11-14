@@ -1,4 +1,6 @@
-﻿namespace Ejercicio2_APIDataSphere_Rg3.Models
+﻿//José Raúl Guerrero Parra
+
+namespace Ejercicio2_APIDataSphere_Rg3.Models
 {
     public class Asset
     {
